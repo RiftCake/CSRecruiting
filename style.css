@@ -1,0 +1,56 @@
+.carousel-item{
+    background-position: 50% 50%;
+    width: 100%;
+    height: 100%;
+}
+h1{
+    font-size: 72px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+h2{
+    text-align: center;
+    color: whitesmoke;
+}
+h3{
+    font-size: 50px;
+    text-align: left;
+    
+}
+.pics1{
+   background-image: url(https://code.org/images/cs-stats/Slide1_Schools_Teach.png);
+   background-repeat: no-repeat;
+   background-size: 1700px 850px;
+}
+.pics2{
+    background-image: url(https://image.slidesharecdn.com/computerscienceadvocacy-170830144202/95/computer-science-advocacy-3-638.jpg?cb=1504104248);
+    background-repeat: no-repeat;
+   background-size: 1650px 850px;
+}
+.pics3{
+    background-image: url(https://image.slidesharecdn.com/computerscienceadvocacy-170830144202/95/computer-science-advocacy-8-638.jpg?cb=1504104248);
+    background-repeat: no-repeat;
+   background-size: 1600px 850px;
+}
+.pics4{
+    background-image:url(http://thumbnails.cbsig.net/CBS_Production_Simon_and_Schuster_VMS/282/399/a853b3d4-9f06-4283-b7c7-baad899ee380_1461272695933_HighRes.png);
+    background-repeat: no-repeat;
+   background-size: 1200px 850px;
+}
+.pics5{
+    background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ada_Lovelace.jpg/220px-Ada_Lovelace.jpg);
+    background-repeat: no-repeat;
+    background-size: 800px 850px;
+    background-position: right center;
+}
+.pics6{
+    background-image:url(https://images.tech.co/wp-content/uploads/2017/02/light-man-hand-pen.jpg);
+    background-repeat: no-repeat;
+    background-size: 1200px 850px;
+}
+.pics7{
+    background-image:url(https://code.org/images/cs-stats/Slide5_CS_Education.png);
+    background-image: no-repeat;
+    background-size: 1460px 850px;
+}
